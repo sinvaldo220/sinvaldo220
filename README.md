@@ -13,7 +13,7 @@ Criador do dirario de Dev's
   <img align="center" alt="Sinvaldo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Sinvaldo220&show_icons=true&hide_border=true" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sinvaldo220&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
  
 <div> 
   <a href="https://www.instagram.com/dinoolima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,8 +22,18 @@ Criador do dirario de Dev's
   
 </div>
 
+## Git Stats
+  
+<br>  
 <div>
- 
+
+  <a href="https://github.com/sinvaldo220">
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinvaldo220&layout=compact&langs_count=7&theme=rose_pine"/>
+  
+</div>
+
+<div>
+
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
