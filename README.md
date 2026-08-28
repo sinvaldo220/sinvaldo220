@@ -1,39 +1,91 @@
-## Oiii eu sou o Sinvaldo Lima, estudante de programação e tecnologia!
+<div align="center">
 
-Seja bem vindo e volte sempre aqui esta alguns de meus projetos pessoais e estudos...</br>
-<hr>
-Criador do dirario de Dev's
+# Olá, eu sou o Sinvaldo Oliveira 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sinvaldo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sinvaldo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Sinvaldo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sinvaldo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sinvaldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sinvaldo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sinvaldo220&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
- 
-<div> 
-  <a href="https://www.instagram.com/dinoolima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dinholima2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sinvaldo-oliveira-57244b1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+**Estudante de programação e tecnologia**
 
-## Git Stats
-  
-<br>  
-<div>
+ADS — Universidade Cruzeiro do Sul · FIAP — Sistemas para Internet (Full Stack)
 
-  <a href="https://github.com/sinvaldo220">
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinvaldo220&layout=compact&langs_count=7&theme=rose_pine"/>
-  
+Criador do **Diário de Dev's**
+
+<br>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dinoolima/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinholima2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinvaldo-oliveira-57244b1a4/)
+
+<br>
+
+![GitHub followers](https://img.shields.io/github/followers/sinvaldo220?style=for-the-badge&logo=github&color=181717)
+![GitHub repos](https://img.shields.io/badge/dynamic-json?url=https://api.github.com/users/sinvaldo220&query=$.public_repos&style=for-the-badge&logo=github&label=Reposit%C3%B3rios&color=181717)
+
 </div>
 
-<div>
+---
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+&nbsp;
+<img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+&nbsp;
+<img alt="Angular" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
+&nbsp;
+<img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+&nbsp;
+<img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+&nbsp;
+<img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+&nbsp;
+<img alt="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
+&nbsp;
+<img alt=".NET" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+&nbsp;
+<img alt="SQL Server" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="./assets/github-stats.svg" alt="GitHub Stats"/>
+&nbsp;
+<img height="165" src="./assets/top-langs.svg" alt="Top Languages"/>
+
+</div>
+
+> Cards gerados automaticamente via GitHub Actions (atualizam a cada 24h).
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| **estoque-produtos-web** | Sistema de estoque — Angular + .NET + SQL Server | [Ver repo](https://github.com/sinvaldo220/estoque-produtos-web) |
+| **AprendendoCSharp** | Estudos de C# | [Ver repo](https://github.com/sinvaldo220/AprendendoCSharp) |
+| **Projeto-Front1** | Primeiro projeto Front — FIAP | [Ver repo](https://github.com/sinvaldo220/Projeto-Front1) |
+| **Projeto-gulliver-traveller** | Site de viagens | [Ver repo](https://github.com/sinvaldo220/Projeto-gulliver-traveller) |
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/sinvaldo220/sinvaldo220/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+**Seja bem-vindo! Volte sempre — aqui estão meus projetos pessoais e de estudo.**
+
 </div>
