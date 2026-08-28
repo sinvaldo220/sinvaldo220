@@ -53,9 +53,9 @@ Criador do **Diário de Dev's**
 
 <div align="center">
 
-<img height="165" src="./assets/github-stats.svg" alt="GitHub Stats"/>
+<img height="165" src="https://raw.githubusercontent.com/sinvaldo220/sinvaldo220/main/assets/github-stats.svg" alt="GitHub Stats"/>
 &nbsp;
-<img height="165" src="./assets/top-langs.svg" alt="Top Languages"/>
+<img height="165" src="https://raw.githubusercontent.com/sinvaldo220/sinvaldo220/main/assets/top-langs.svg" alt="Top Languages"/>
 
 </div>
 
@@ -78,7 +78,7 @@ Criador do **Diário de Dev's**
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/sinvaldo220/sinvaldo220/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sinvaldo220/sinvaldo220/gh-pages/github-contribution-grid-snake.svg)
 
 </div>
 
