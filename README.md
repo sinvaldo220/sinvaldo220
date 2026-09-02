@@ -14,6 +14,9 @@ Criador do **Diário de Dev's**
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinholima2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinvaldo-oliveira-57244b1a4/)
 
+[![Minha história](https://img.shields.io/badge/Minha_história-1B4332?style=for-the-badge)](https://sinvaldo220.github.io/Meu-portf-lio-minha-hist-ria/trajetoria)
+[![Site para recrutadores](https://img.shields.io/badge/Site-para_recrutadores-0F172A?style=for-the-badge)](https://sinvaldo220.github.io/Meu-portf-lio-minha-hist-ria/)
+
 <br>
 
 ![GitHub followers](https://img.shields.io/github/followers/sinvaldo220?style=for-the-badge&logo=github&color=181717)
@@ -67,6 +70,7 @@ Criador do **Diário de Dev's**
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
+| **Portfólio · minha história** | Trajetória em QA, laboratório e contato | [Abrir site](https://sinvaldo220.github.io/Meu-portf-lio-minha-hist-ria/) |
 | **estoque-produtos-web** | Sistema de estoque — Angular + .NET + SQL Server | [Ver repo](https://github.com/sinvaldo220/estoque-produtos-web) |
 | **AprendendoCSharp** | Estudos de C# | [Ver repo](https://github.com/sinvaldo220/AprendendoCSharp) |
 | **Projeto-Front1** | Primeiro projeto Front — FIAP | [Ver repo](https://github.com/sinvaldo220/Projeto-Front1) |
